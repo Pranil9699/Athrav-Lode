@@ -1,0 +1,2 @@
+This is a sample content written to the destination file.
+Hello, this is the content of the source file.
